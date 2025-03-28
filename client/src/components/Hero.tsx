@@ -126,7 +126,7 @@ export default function Hero() {
               <img 
                 src={profileImage} 
                 alt="Avantika Kodape" 
-                className="w-full h-full object-cover object-center" 
+                className="w-full h-full object-cover object-top" 
               />
             </div>
           </motion.div>
