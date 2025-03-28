@@ -1,0 +1,119 @@
+1.Name: Avantika Kodape
+
+2.Professional Title: Backend Developer
+
+3.About You: Hello, I'm Avantika Kodape, a highly motivated backend developer and problem solver with a passion for building scalable and efficient digital solutions,Holding a Bachelor's Degree in Computer Science from IIIT Nagpur, I have developed a solid foundation in both front-end and back-end development. With hands-on experience in backend development, I enjoy creating robust applications that enhance user experiences. I have a strong background in developing RESTful APIs, managing databases, and optimizing application performance.
+
+Currently, I love working with technologies like Python, Django, FastAPI, and PostgreSQL, along with cloud platforms like AWS. My expertise also includes implementing authentication systems, asynchronous task processing, and working with both SQL and NoSQL databases. I am constantly eager to learn and apply emerging technologies to solve real-world problems.
+
+My technical expertise includes working with modern frameworks and technologies to deliver scalable and efficient solutions. I am committed to staying updated with the latest industry trends and continuously enhancing my skills to build products that provide real value.
+
+In addition to my technical abilities, I am an excellent communicator and team player. I thrive in collaborative environments where I can contribute ideas, learn from others, and work towards shared goals. I believe in fostering strong professional relationships based on trust, respect, and clear communication, ensuring the success of both the projects I work on and the teams I collaborate with.
+
+Driven by curiosity and a passion for problem-solving, I am excited to take on new challenges and contribute meaningfully to innovative projects.
+
+
+
+
+
+
+4.Skills:
+
+Technical Skills:
+Programming Languages: Python, JavaScript, C++
+
+Frameworks & Libraries: Django, Flask, React, Next.js
+
+Databases: PostgreSQL, MySQL, MongoDB
+
+API Development: RESTful APIs, SOAP APIs
+
+Cloud & DevOps: AWS, Docker, Kubernetes
+
+Version Control: Git, GitHub
+
+Data Analysis & Processing: Pandas, NumPy
+
+Testing & Debugging: Postman, PyTest
+
+Tools & Technologies: GraphQL, Redis, Celery
+
+Front-End: HTML, CSS, TailwindCSS
+
+Soft Skills:
+Problem Solving and Critical Thinking
+
+Effective Communication
+
+Collaboration and Teamwork
+
+Adaptability and Quick Learning
+
+Time Management and Multitasking
+
+Analytical Thinking
+
+Attention to Detail
+
+Leadership and Mentoring Skills
+
+
+
+5.Projects: 
+  1. Login API
+Description: Developed a secure and efficient login API to manage user authentication and authorization processes. This project focuses on implementing robust security measures to protect user data and ensure seamless access control.
+Technologies Used: Python, Django REST Framework
+link :https://github.com/AvantikaKodape16/login_Api
+
+ 2.TCP_UDP Chatbot
+Description: Developed a chatbot application using TCP and UDP protocols to facilitate real-time communication. This project showcases the implementation of client-server architecture, providing a seamless chatting experience. It demonstrates networking concepts and efficient data transmission using both reliable (TCP) and fast (UDP) communication channels.
+Technologies Used: Python, Socket Programming (TCP/UDP)
+link : https://github.com/AvantikaKodape16/TCP_UDP_CHATBOT
+
+ 3. Text Summarization
+Description: Developed a text summarization tool that uses natural language processing (NLP) techniques to generate concise summaries of lengthy texts. This project focuses on extracting essential information while maintaining the context and meaning of the original content.
+Technologies Used: Python, Natural Language Processing (NLP), NLTK, Gensim
+link: https://github.com/AvantikaKodape16/Text_summarization
+
+ 4. Species Extinction Prediction
+Description: Developed a machine learning-based project to predict the risk of species extinction using various ecological and environmental factors. This project aims to provide insights into species conservation by analyzing historical data and identifying key factors contributing to extinction.
+Technologies Used: Python, Pandas, NumPy, Matplotlib, Scikit-Learn
+link : https://github.com/AvantikaKodape16/Species_Extinction_Python_project
+
+
+ 5. Description: Developed a podcast streaming platform that allows users to browse, listen, and manage podcasts. The application provides an interactive user experience with personalized podcast recommendations.
+Technologies Used: Python, Flask, HTML, CSS, JavaScript, SQLite
+link :https://github.com/AvantikaKodape16/PODTALK
+
+ 
+
+
+
+
+
+
+6.Experience: 
+Backend Developer Intern — GrayQuest (March 3, 2024 - May 4, 2024)
+
+Developed and optimized RESTful APIs using Python and Django.
+
+Implemented secure authentication systems with JWT and OAuth2.
+
+Enhanced database performance using PostgreSQL.
+
+Integrated third-party services for seamless application functionality.
+
+Collaborated with cross-functional teams to deliver scalable solutions.
+
+Gained hands-on experience with AWS for cloud deployment and management.
+
+7.Education:
+Bachelor of Technology (B.Tech) in Computer Science and Engineering
+Indian Institute of Information Technology (IIIT) Nagpur
+Graduated in 2024
+
+8.Contact Information:
+Email: avantikakodape16@gmail.com
+Phone: +91-9370749369
+LinkedIn: https://www.linkedin.com/in/avantika-kodape-b01051204/
+GitHub: https://github.com/AvantikaKodape16
