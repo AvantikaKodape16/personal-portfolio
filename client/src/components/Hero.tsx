@@ -122,7 +122,7 @@ export default function Hero() {
             transition={{ duration: 0.5 }}
             className="order-1 md:order-2 flex justify-center md:justify-end"
           >
-            <div className="w-64 h-64 md:w-80 md:h-80 rounded-full border-4 border-primary shadow-lg overflow-hidden">
+            <div className="w-64 h-64 md:w-80 md:h-80 rounded-lg border-4 border-primary shadow-lg overflow-hidden">
               <img 
                 src={profileImage} 
                 alt="Avantika Kodape" 
