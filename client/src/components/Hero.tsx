@@ -122,10 +122,13 @@ export default function Hero() {
             transition={{ duration: 0.5 }}
             className="order-1 md:order-2 flex justify-center md:justify-end"
           >
-            <Avatar className="w-64 h-64 md:w-80 md:h-80 rounded-full border-4 border-primary shadow-lg">
-              <AvatarImage src={profileImage} alt="Avantika Kodape" className="object-cover" />
-              <AvatarFallback>AK</AvatarFallback>
-            </Avatar>
+            <div className="w-64 h-64 md:w-80 md:h-80 rounded-full border-4 border-primary shadow-lg overflow-hidden">
+              <img 
+                src={profileImage} 
+                alt="Avantika Kodape" 
+                className="w-full h-full object-cover object-center" 
+              />
+            </div>
           </motion.div>
         </div>
       </div>
